@@ -1,0 +1,8 @@
+mnist_digit_recognizer/
+├── train_model.py                  # Train CNN model on MNIST
+├── predict.py                      # CLI to test on sample image
+├── app.py                          # Streamlit UI for digit prediction
+├── model.h5                        # Saved CNN model
+├── requirements.txt
+├── README.md
+└── .gitignore
